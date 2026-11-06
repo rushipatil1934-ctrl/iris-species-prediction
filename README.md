@@ -92,9 +92,6 @@ or open the Jupyter Notebook:
 
 ```bash
 jupyter notebook
-```
-
-
 
 ## Future Improvements
 
